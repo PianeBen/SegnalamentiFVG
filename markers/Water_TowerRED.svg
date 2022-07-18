@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="11.2889mm" height="11.2889mm"
+ viewBox="0 0 32 32"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="rgb(255,0,0)" stroke="param(outline) #FFF" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="rgb(255,0,0)" stroke="param(outline) #FFF" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,16,16)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="rgb(255,0,0)" stroke="param(outline) #FFF" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.33333,0,0,1.33333,16,16)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="rgb(255,0,0)" stroke="param(outline) #FFF" fill-opacity="1" transform="matrix(1.32283,0,0,1.32283,6.07874,6.07874)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="nonzero" d="M11,8.92 L12.11,13.35 C12.19,13.68 11.99,14.02 11.65,14.11 C11.32,14.19 10.98,13.99 10.89,13.65 L9.9,9.66 C9.41,9.84 8.82,9.94 8.12,9.98 C8.12,9.99 8.13,9.99 8.13,10 L8.13,13.5 C8.13,13.85 7.85,14.13 7.5,14.13 C7.15,14.13 6.88,13.85 6.88,13.5 L6.88,10 C6.88,9.99 6.88,9.99 6.88,9.98 C6.18,9.94 5.59,9.84 5.1,9.66 L4.11,13.65 C4.02,13.99 3.68,14.19 3.35,14.11 C3.01,14.02 2.81,13.68 2.89,13.35 L4,8.92 L4,4.5 L11,4.5 L11,8.92 M7.5,1 L12,3 L12,4 L3,4 L3,3 L7.5,1"/>
+</g>
+
+<g fill="rgb(255,0,0)" stroke="param(outline) #FFF" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.33333,0,0,1.33333,16,16)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="rgb(255,0,0)" stroke="param(outline) #FFF" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,16,16)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="rgb(255,0,0)" stroke="param(outline) #FFF" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>
