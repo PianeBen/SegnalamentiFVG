@@ -10,3 +10,5 @@ Aspetto grafico del progetto:
 
 Per vederlo all'opera:
 [PROTOTIPO FUNZIONANTE](https://pianeben.github.io/SegnalamentiFVG/#11/45.7086/13.5080) 
+
+Realizzato con QGIS e il plungin QGIS2WEB, oltre ad alcune modifiche manuali al codice generato.
