@@ -83,9 +83,9 @@
             highlightLayer.openPopup();
         }
         var map = L.map('map', {
-            <!-- per modificare restrict to extent modificare qui variabile minZoom e alla riga 122 - FitBounds per ingrandire o rimpicciolire l'area limite min Zoom 11 [45.31360626261056,12.52102771031776],[46.10080989668396,14.494874223870331] --> 
-			zoomControl:true, maxZoom:28, minZoom:10
-        }).fitBounds([[45.31360626261056,12.52102771031776],[46.10080989668396,14.494874223870331]]);
+            <!-- per modificare restrict to extent modificare qui variabile minZoom e alla riga 122 - FitBounds per ingrandire o rimpicciolire l'area limite min Zoom 11 [45.31360626261056,12.52102771031776],[46.10080989668396,14.494874223870331] 12.4521197693714907,45.2323302296995706 : 14.0407885617372017,46.1891534107176440 --> 
+			zoomControl:true, maxZoom:28, minZoom:11
+			}).fitBounds([[45.2323302296995706,12.4521197693714907],[46.1891534107176440,14.0407885617372017]]);
         var hash = new L.Hash(map);
         map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a> &middot; <a href="https://github.com/ardhi/Leaflet.MousePosition">Lukianto</a> &middot; <a href="https://www.regione.fvg.it/rafvg/organigramma/ricercaPersona.act?dir=%2Frafvg%2Fcms%2FRAFVG%2Fpersoneuffici%2Fricerca%2F&tipo=persona&cerca=samez">Daniele</a>');
         var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
@@ -120,7 +120,7 @@
             opacity: 1.0,
             attribution: '',
             <!-- per modificare restrict to extent modificare qui variabile minZoom allo stesso valore della riga 87 --> 
-			minZoom: 10,
+			minZoom: 11,
             maxZoom: 28,
             minNativeZoom: 0,
             maxNativeZoom: 18
