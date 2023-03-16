@@ -88,7 +88,7 @@
             zoomControl:true, maxZoom:28, minZoom:11
         }).fitBounds([[45.56554317935623,12.76897747092872],[46.004418732277465,13.837223760429188]]);
         var hash = new L.Hash(map);
-        map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a> &middot; <a href="https://cyclosm.org/legend.html">OpenCycleMap</a> &middot; <a href="https://wiki.openstreetmap.org/wiki/Seamarks/Seamark_Objects">OpenSeaMap</a> &middot; <a href="https://www.regione.fvg.it/rafvg/organigramma/ricercaPersona.act?dir=%2Frafvg%2Fcms%2FRAFVG%2Fpersoneuffici%2Fricerca%2F&tipo=persona&cerca=samez">Daniele</a>');
+        map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org" target="_blank">QGIS</a> &middot; <a href="https://cyclosm.org/legend.html" target="_blank" title="Legenda simbologia OpenCycleMap">OpenCycleMap</a> &middot; <a href="https://wiki.openstreetmap.org/wiki/Seamarks/Seamark_Objects" target="_blank" title="Legenda simbologia marittima adottata da OpenSeaMap">OpenSeaMap</a> &middot; <a href="https://www.regione.fvg.it/rafvg/organigramma/ricercaPersona.act?dir=%2Frafvg%2Fcms%2FRAFVG%2Fpersoneuffici%2Fricerca%2F&tipo=persona&cerca=samez" target="_blank" >Daniele</a>');
         var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
         L.control.locate({locateOptions: {maxZoom: 19}}).addTo(map);
         var measureControl = new L.Control.Measure({
