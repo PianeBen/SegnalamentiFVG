@@ -9,6 +9,6 @@ Aspetto grafico del progetto:
 ![--PROTOTIPO--](/images/Aspetto.png)
 
 Per vederlo all'opera:
-[PROTOTIPO FUNZIONANTE]([https://pianeben.github.io/SegnalamentiFVG]) 
+[PROTOTIPO FUNZIONANTE](https://pianeben.github.io/SegnalamentiFVG) 
 
 Realizzato con QGIS e il plungin QGIS2WEB, oltre ad alcune modifiche manuali al codice generato.
