@@ -4,6 +4,8 @@
 
 Pali, briccole, dame, mede, fari e fanali, con relative schede monografiche, ove disponibili.
 
+La posizione topografica dei segnalamenti non risulta validata pertanto la cartografia deve intendersi come indicativa e inadatta alla navigazione.
+
 Aspetto grafico del progetto:
 
 ![--PROTOTIPO--](/images/Aspetto.png)
